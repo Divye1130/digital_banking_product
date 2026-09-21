@@ -1,0 +1,11 @@
+feature,user_value,reach,impact,confidence,effort,rice_score,priority,status
+Upcoming recurring-payments view,High,8,3,0.90,2,10.80,Must,MVP built
+Projected available balance,High,8,3,0.90,2,10.80,Must,MVP built
+Low-balance threshold warning,High,7,3,0.85,2,8.93,Must,MVP built
+Confirm/reject detected recurring payment,High,6,3,0.85,2,7.65,Must,MVP built
+Payment history detail,Medium,6,2,0.90,2,5.40,Should,MVP built
+Confidence explanation,Medium,5,2,0.75,2,3.75,Should,Partially built
+Cross-account Open Banking aggregation,High,8,3,0.60,8,1.80,Could,Not built
+Subscription cancellation guidance,Medium,5,2,0.55,5,1.10,Could,Not built
+Merchant comparison / cheaper alternatives,Medium,4,2,0.45,6,0.60,Won't for MVP,Not built
+Automated transfers to savings,High,4,3,0.40,9,0.53,Won't for MVP,Not built
