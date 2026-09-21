@@ -1,0 +1,14 @@
+{
+  "customers": 200,
+  "transactions": 32228,
+  "months": 6,
+  "true_recurring_pairs": 1112,
+  "predicted_pairs": 1116,
+  "tp": 1111,
+  "fp": 5,
+  "fn": 1,
+  "precision": 0.9955,
+  "recall": 0.9991,
+  "f1": 0.9973,
+  "tests_passed": 9
+}
